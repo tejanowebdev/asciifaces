@@ -538,15 +538,6 @@
 				"size": 36,
 				"date_added": "2020-12-05T18:25:43.511Z",
 				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-			},
-			{
-				"id": "0061",
-				"name": "Lorem ipsum 61",
-				"ascii": "° ͜ʖ◘ ▌°",
-				"price": 3.1,
-				"size": 33,
-				"date_added": "2020-12-05T18:25:43.511Z",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 			}
 		]
 }
